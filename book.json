@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "anchor-navigation",
         "github",
         "search",
         "infinitescroll",
