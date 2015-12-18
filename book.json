@@ -3,19 +3,11 @@
         "github",
         "search",
         "infinitescroll",
-        "include",
-        "github-buttons"
+        "include"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/vaeum/doc"
-        },
-        "github-buttons": {
-            "repo": "vaeum/doc",
-            "types": [
-                "star",
-                "watch"
-            ]
         }
     }
 }
