@@ -1,3 +1,3 @@
 # Типографика
 
-- [izobrazhenie_elementov_shrifta.md](Изображение элементов шрифта)
+- [Изображение элементов шрифта](izobrazhenie_elementov_shrifta.md)
