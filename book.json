@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "autocover"
+        "autocover",
+        "code_tomorrow_scheme"
     ],
     "pluginsConfig": {}
 }
