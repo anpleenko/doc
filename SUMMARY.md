@@ -7,5 +7,5 @@
    * [Полезные команды для работы с git](GIT/poleznie_komandi_dlya_raboti_s_git.md)
 * [SEO](SEO/index.md)
    * [Внутренняя оптимизация сайта](SEO/vnutrennyaya_optimizatsiya_saita.md)
-* Сборники
+* [Сборники](collection/index.md)
 
