@@ -2,7 +2,8 @@
     "plugins": [
         "autocover",
         "code_tomorrow_scheme",
-        "gist"
+        "gist",
+        "spoiler"
     ],
     "pluginsConfig": {}
 }
