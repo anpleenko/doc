@@ -4,7 +4,8 @@
         "github",
         "search",
         "infinitescroll",
-        "include"
+        "include",
+        "github-buttons"
     ],
     "pluginsConfig": {
         "github": {
