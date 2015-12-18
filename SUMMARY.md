@@ -4,5 +4,5 @@
 * [Типографика](typography/index.md)
    * [Изображение элементов шрифта](typography/izobrazhenie_elementov_shrifta.md)
 * [GIT](GIT/index.md)
-   * [Полезные команды для работы с git](GIT/poleznie_kommandi_dlya_raboti_s_git.md)
+   * [Полезные команды для работы с git](GIT/poleznie_komandi_dlya_raboti_s_git.md)
 
