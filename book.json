@@ -1,7 +1,8 @@
 {
     "plugins": [
         "spoiler",
-        "anchor-navigation"
+        "anchor-navigation",
+        "github"
     ],
     "pluginsConfig": {}
 }
