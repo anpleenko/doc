@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "gist",
         "spoiler",
         "anchor-navigation"
     ],
