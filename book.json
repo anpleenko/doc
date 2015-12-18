@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "spoiler",
         "anchor-navigation",
         "github"
     ],
