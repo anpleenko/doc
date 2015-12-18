@@ -3,7 +3,8 @@
         "anchor-navigation",
         "github",
         "search",
-        "infinitescroll"
+        "infinitescroll",
+        "include"
     ],
     "pluginsConfig": {
         "github": {
