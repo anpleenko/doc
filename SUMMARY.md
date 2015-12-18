@@ -1,4 +1,5 @@
-# Оглавление
+# Summary
 
-* [Шрифты](fonts.md)
+* [Introduction](README.md)
+* [Типографика](typography.md)
 
