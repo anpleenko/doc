@@ -4,4 +4,5 @@
 * [Типографика](typography/index.md)
    * [Изображение элементов шрифта](typography/izobrazhenie_elementov_shrifta.md)
 * [GIT](GIT/index.html)
+   * Полезные комманды для работы с git
 
