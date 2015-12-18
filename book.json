@@ -1,6 +1,10 @@
 {
     "plugins": [
-
+        "autocover",
+        "code_tomorrow_scheme",
+        "gist",
+        "spoiler",
+        "anchor-navigation"
     ],
     "pluginsConfig": {}
 }
