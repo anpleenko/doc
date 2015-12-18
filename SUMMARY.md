@@ -14,5 +14,5 @@
 * [Frontend](Frontend/index.md)
    * [PostCSS плагины для разработки](Frontend/postcss_plagini_dlya_razrabotki.md)
 * [IOS](IOS/index.md)
-   * Особенности IOS
+   * [Особенности IOS](IOS/osobennosti_ios.md)
 
