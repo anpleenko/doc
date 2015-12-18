@@ -11,7 +11,7 @@
    * [Jquery плагины](collection/jquery-plugins.md)
 * [MAC](MAC/index.md)
    * [Редактируем файл HOST в MAC OS X](MAC/redaktiruem_fail_host_v_mac_os_x.md)
+* [IOS](IOS/index.md)
 * [Frontend](Frontend/index.md)
    * [PostCSS плагины для разработки](Frontend/postcss_plagini_dlya_razrabotki.md)
-* [IOS](IOS/index.md)
 
