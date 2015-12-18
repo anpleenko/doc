@@ -1,7 +1,8 @@
 {
     "plugins": [
         "anchor-navigation",
-        "github"
+        "github",
+        "search"
     ],
     "pluginsConfig": {
         "github": {
