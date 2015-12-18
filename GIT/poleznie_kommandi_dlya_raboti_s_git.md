@@ -12,7 +12,7 @@ git reset --hard origin/master
 git merge --abort
 ```
 
-Отменить последний корммит
+Отменить последний коммит
 
 ```
 git reset --soft HEAD~1
