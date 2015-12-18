@@ -16,5 +16,5 @@
 * [Frontend](Frontend/index.md)
    * [PostCSS плагины для разработки](Frontend/postcss_plagini_dlya_razrabotki.md)
 * [Node JS & NPM](nodeJS/index.md)
-   * Обновление bower пакетов
+   * [Обновление bower пакетов](nodeJS/obnovlenie_bower_paketov.md)
 
