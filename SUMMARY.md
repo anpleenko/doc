@@ -8,5 +8,5 @@
 * [SEO](SEO/index.md)
    * [Внутренняя оптимизация сайта](SEO/vnutrennyaya_optimizatsiya_saita.md)
 * [Сборники](collection/index.md)
-   * Jquery плагины
+   * [Jquery плагины](collection/jquery-plugins.md)
 
