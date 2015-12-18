@@ -10,4 +10,5 @@
 * [Сборники](collection/index.md)
    * [Jquery плагины](collection/jquery-plugins.md)
 * [MAC](MAC/index.md)
+   * Редактируем файл HOST в MAC OS X
 
