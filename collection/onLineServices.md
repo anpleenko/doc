@@ -12,3 +12,10 @@ CSS генераторы
 
 Обфускация JS кода
 - [Javascript Obfuscator](https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx)
+
+Совместное редактирование кода
+- [floobits.com](https://floobits.com/)
+- [kobra.io](https://kobra.io/)
+
+Генерирование JSON
+- [json-generator](http://www.json-generator.com/)
