@@ -2,4 +2,4 @@
 
 CSS генераторы 
 
-- [http://enjoycss.com/](http://enjoycss.com/) (<jkmijq генератор для css, есть возможность экспорта в scss, less)
+- [http://enjoycss.com/](http://enjoycss.com/) (Большой генератор для css, есть возможность экспорта в scss, less)
