@@ -9,7 +9,7 @@
    * [Внутренняя оптимизация сайта](SEO/vnutrennyaya_optimizatsiya_saita.md)
 * [Сборники](collection/index.md)
    * [Jquery плагины](collection/jquery-plugins.md)
-   * Он-лайн сервисы
+   * [Он-лайн сервисы](collection/onLineServices.md)
 * [MAC](MAC/index.md)
    * [Редактируем файл HOST в MAC OS X](MAC/redaktiruem_fail_host_v_mac_os_x.md)
 * [IOS](IOS/index.md)
