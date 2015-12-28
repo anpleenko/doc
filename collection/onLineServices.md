@@ -19,3 +19,6 @@ CSS генераторы
 
 Генерирование JSON
 - [json-generator](http://www.json-generator.com/)
+
+Создание он-лайн анимаций на CSS
+- [http://bouncejs.com/](http://bouncejs.com/)
