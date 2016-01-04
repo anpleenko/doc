@@ -2,7 +2,7 @@
 
 CSS генераторы 
 
-- [enjoycss.com](http://enjoycss.com/) (Большой генератор для css, есть возможность экспорта в scss, less)
+- [Enjoycss.com](http://enjoycss.com/) (Большой генератор для css, есть возможность экспорта в scss, less)
 
 Создание он-лайн сниппетов и публикация их
 - [Plunker](http://plnkr.co/)
@@ -14,14 +14,14 @@ CSS генераторы
 - [Javascript Obfuscator](https://www.javascriptobfuscator.com/Javascript-Obfuscator.aspx)
 
 Совместное редактирование кода
-- [floobits.com](https://floobits.com/)
-- [kobra.io](https://kobra.io/)
+- [Floobits.com](https://floobits.com/)
+- [Kobra.io](https://kobra.io/)
 
 Генерирование JSON
-- [json-generator](http://www.json-generator.com/)
+- [Json-generator](http://www.json-generator.com/)
 
 Создание он-лайн анимаций на CSS
-- [bouncejs.com/](http://bouncejs.com/)
+- [Bouncejs.com](http://bouncejs.com/)
 
 Генератор favicon
-- [realfavicongenerator.net/](http://realfavicongenerator.net/)
+- [Realfavicongenerator.net](http://realfavicongenerator.net/)
