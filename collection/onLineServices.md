@@ -21,4 +21,7 @@ CSS генераторы
 - [json-generator](http://www.json-generator.com/)
 
 Создание он-лайн анимаций на CSS
-- [http://bouncejs.com/](http://bouncejs.com/)
+- [bouncejs.com/](http://bouncejs.com/)
+
+Генератор favicon
+- [realfavicongenerator.net/](http://realfavicongenerator.net/)
