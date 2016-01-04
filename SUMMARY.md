@@ -17,7 +17,7 @@
    * [Особенности IOS](IOS/osobennosti_ios.md)
 * [Frontend](Frontend/index.md)
    * [PostCSS плагины для разработки](Frontend/postcss_plagini_dlya_razrabotki.md)
-   * PostHTML плагины для разработки
+   * [PostHTML плагины для разработки](Frontend/posthtml_plagini_dlya_razrabotki.md)
 * [Node JS & NPM](nodeJS/index.md)
    * [Обновление bower пакетов](nodeJS/obnovlenie_bower_paketov.md)
 * [Java Script](JS/index.md)
