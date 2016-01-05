@@ -25,3 +25,6 @@ CSS генераторы
 
 Генератор favicon
 - [Realfavicongenerator.net](http://realfavicongenerator.net/)
+
+Base64 конвертер
+- [Base64-image.de](https://www.base64-image.de/)
