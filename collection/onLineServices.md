@@ -26,6 +26,9 @@ CSS генераторы
 Генератор favicon
 - [Realfavicongenerator.net](http://realfavicongenerator.net/)
 
+Генератор placeholder картинок
+- [Unsplash.it](https://unsplash.it/)
+
 Base64 конвертер
 - [Base64-image.de](https://www.base64-image.de/)
 
