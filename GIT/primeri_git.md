@@ -340,3 +340,4 @@
     $ man git-merge
     ```
 
+Источник: [http://najomi.org/git](http://najomi.org/git)
