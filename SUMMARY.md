@@ -6,6 +6,7 @@
 * [GIT](GIT/index.md)
    * [Полезные команды для работы с git](GIT/poleznie_komandi_dlya_raboti_s_git.md)
    * [Как откатить коммиты на github.com](GIT/kak_otkatit_kommiti_na_githubcom.md)
+   * Примеры: GIT
 * [SEO](SEO/index.md)
    * [Внутренняя оптимизация сайта](SEO/vnutrennyaya_optimizatsiya_saita.md)
 * [Сборники](collection/index.md)
