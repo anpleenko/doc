@@ -2,7 +2,6 @@
     "plugins": [
         "github",
         "search",
-        "infinitescroll",
         "include"
     ],
     "pluginsConfig": {
