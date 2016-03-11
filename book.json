@@ -1,8 +1,7 @@
 {
     "plugins": [
         "github",
-        "search",
-        "include"
+        "search"
     ],
     "pluginsConfig": {
         "github": {
