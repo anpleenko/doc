@@ -24,6 +24,6 @@
    * [Обновление bower пакетов](nodeJS/obnovlenie_bower_paketov.md)
 * [Java Script](JS/index.md)
    * [Что такое замыкание в JS](JS/chto_takoe_zamikanie_v_js.md)
-* [Web-design](web-design.md)
-   * [Дизайнер продуктов. База дизайн-мышления.](dizainer_produktov_baza_dizain-mishleniya.md)
+* [Web-design](web-design/web-design.md)
+   * [Дизайнер продуктов. База дизайн-мышления.](web-design/dizainer_produktov_baza_dizain-mishleniya.md)
 
