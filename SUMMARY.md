@@ -15,6 +15,7 @@
    * [Он-лайн сервисы](collection/onLineServices.md)
 * [MAC](MAC/index.md)
    * [Редактируем файл HOST в MAC OS X](MAC/redaktiruem_fail_host_v_mac_os_x.md)
+   * Скрытые комманды MacOSX
 * [IOS](IOS/index.md)
    * [Особенности IOS](IOS/osobennosti_ios.md)
 * [Frontend](Frontend/index.md)
