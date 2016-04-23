@@ -23,6 +23,7 @@
    * [PostHTML плагины для разработки](Frontend/posthtml_plagini_dlya_razrabotki.md)
 * [Node JS & NPM](nodeJS/index.md)
    * [Обновление bower пакетов](nodeJS/obnovlenie_bower_paketov.md)
+   * Команды NPM
 * [Java Script](JS/index.md)
    * [Что такое замыкание в JS](JS/chto_takoe_zamikanie_v_js.md)
 * [Web-design](web-design/web-design.md)
